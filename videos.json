@@ -250,5 +250,12 @@
     "duration": 65.21,
     "channel": "douyincom",
     "segments_url": "https://raw.githubusercontent.com/baoshi915833/tik4/main/douyincom/6097995052192106022/segments.json"
+  },
+  {
+    "id": "4940963912423047799",
+    "title": "Video 4940963912423047799",
+    "duration": 393.778,
+    "channel": "douyincom",
+    "segments_url": "https://raw.githubusercontent.com/baoshi915833/tik4/main/douyincom/4940963912423047799/segments.json"
   }
 ]
